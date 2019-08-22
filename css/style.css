@@ -1,0 +1,108 @@
+header{
+  background-image: url(../img/homepage.png);
+  background-size: cover;
+}
+.overlay {
+    background-color: #00000070;
+    width: 100%;
+}
+.bar {
+    padding: 60px 0px;
+}
+.logo img {
+    width: 100%;
+    margin: 0px 55px;
+}
+ul{
+  list-style: none;
+}
+ul li {
+
+    display: inline-block;
+}
+ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+span {
+    padding: 70px;
+    color: white;
+}
+.number h2 {
+    background: #0006;
+    color: white;
+    font-size: 50px;
+    padding: 7px 32px;
+}
+.lorem {
+    font-size: 14px;
+    color: white;
+    margin-top: 20px;
+}
+.c-u {
+    padding: 50px 0px 200px 15px;
+}
+.btn-cstm {
+    width: 100%;
+    border: solid white 1px;
+}
+
+.mid {
+    background-color: #f6f6f6;
+    padding: 100px 0px 0px 0px;
+}
+.mid1 h2{
+  font-family: sans-serif;
+}
+
+.mid1 p{
+  padding: 63px 0px;
+  color: gray;
+}
+.mid2{
+  position: relative;
+}
+.pos-one {
+    position: absolute;
+    top: 10%;
+    left: -64px;
+}
+
+.pos-two {
+    position: absolute;
+    left: 32%;
+    top: 23%;
+    width: 43%;
+}
+.a-title {
+    background-color: #28282e;
+    padding: 90px 0px;
+}
+.t1 {
+    color: white;
+}
+.t1 h2{
+ font-family: opensans bold;
+ font-size: 41px;
+}
+.t1 p{
+  padding: 60px 0px;
+}
+.btn-cstm1 {
+    color: white;
+    border: solid 1px;
+    background: #28282e;
+    padding: 15px;
+}
+.t2{
+
+}
+.c3 {
+    width: 100%;
+    padding-top: 100px;
+}
+footer {
+    background: #ef4035;
+    text-align: center;
+    padding: 28px 0px;
+}
